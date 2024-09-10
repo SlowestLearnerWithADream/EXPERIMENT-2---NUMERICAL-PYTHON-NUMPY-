@@ -25,7 +25,7 @@ which are the squares of the first 100 positive integers.
 
 From this ndarray, determine all the elements that are divisible by 3. Save the result as div_by_3.npy
 
-#### REVISIONS:
+#### FORMAT REVISIONS:
 1. Combined the two(2) problems into 1 jupiter notebook file for easier accessibility.
 
 
